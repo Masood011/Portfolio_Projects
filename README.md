@@ -4,3 +4,5 @@ An archive of all my data analytics projects
 - Microsoft Excel
 - SQL
 - Tableau
+- Python
+- Web Scraping
